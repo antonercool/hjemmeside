@@ -1,0 +1,196 @@
+li {
+	display: inline-block;
+	color: white;
+	padding: 14px 16px;
+	text-decoration: none;
+	line-height: 20px;
+	
+}
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	
+	
+}
+
+#nav{
+	background-color:#54A8A5;
+	padding: 5px;
+	height: 80px;
+	text-align: center;
+	
+}
+
+#nav2{
+	background-color:#54A8A5;
+	padding: 5px;
+	height: 60;
+	text-align: center;
+	position: relative;
+	top: -5px;
+	
+
+	
+}
+
+#skank {
+	text-decoration: overline;
+	text-align: center;
+	font-size: 225%;
+
+	
+	
+}
+
+#ending{
+	float: right;
+	color: white;
+}
+
+#img{
+	background-color:#54A8A5;
+	line-height:100px;
+	
+	
+}
+
+
+a:hover{
+	background-color: red;
+	color: white;
+		
+}
+
+a:active{
+	background-color: blue;
+}
+
+a:link{
+	color: white;
+}
+
+#titskank{
+	word-spacing: 2px;
+	position: relative;
+	left: -160px;
+	
+}
+
+#assskank{
+	word-spacing: 2px;
+	position: relative;
+	left: -80px;
+	
+}
+
+#clitskank{
+	word-spacing: 2px;
+}
+
+#smattet{
+	word-spacing: 2px;
+	position: relative;
+	right: -80px;
+}
+
+#left{
+	width: 7%;
+	background-color:#54A8A5;
+	padding: 5px;
+	height: 5000px;
+	float: left;
+	position: relative;
+	top: -5px;
+}
+
+
+#right{
+	width: 10%;
+	background-color:#54A8A5;
+	padding: 5px;
+	height: 5000px;
+	float: right;
+	position: relative;
+	top: -5px;
+	
+	
+	
+	
+	
+	
+}
+
+
+.skanks{
+	position: center;
+	float: center;
+	height: 250px;
+	width: 27%;
+}
+
+thisskank{
+	
+	position: relative;
+	right: -50px;
+	height: 250px;
+	width: 300px;
+	
+}
+
+
+
+#table1{
+	float: right;
+	position: relative;
+	left: -100px;
+	
+}
+
+#table2{
+	float: center;
+	position: relative;
+	right: -100px;
+
+	
+	
+}
+
+
+#last{
+	color: black;
+	
+}
+
+#skank26{
+	float: right;
+	height: 350px;
+	width: 600px;
+	
+	position: relative;
+	top: -500px;
+}
+
+#skank27{
+	float: right;
+	height: 600px;
+	width: 800px;
+	
+	position: relative;
+	top: -280px
+}
+
+#dick
+{
+	width: 100%;
+	
+}
+
+body {
+	width: 100%;
+	
+}
+
+
